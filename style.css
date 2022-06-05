@@ -17,10 +17,12 @@ p{
     font-size: 18px;
     color: grey;
 }
+
 ul{
     font-size: 18px;
     color: grey;
 }
+
 .main{
     margin: 15px;
     padding: 5px;
@@ -42,8 +44,8 @@ ul{
 
 .m-left{
     padding: 20px;
-    margin-left: 20%;
-    margin-right: 10%;  
+    margin-left: 15%;
+    margin-right: 5%;  
 }
 .m-right{
     margin-right: 20px;
@@ -51,7 +53,7 @@ ul{
 }
 
 .img-style{
-    width: 150px;
+    width: 300px;
 
 }
 .icon{
